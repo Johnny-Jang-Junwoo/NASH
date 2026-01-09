@@ -5,3 +5,5 @@ sympy
 scipy
 numpy
 python-dotenv
+streamlit
+plotly

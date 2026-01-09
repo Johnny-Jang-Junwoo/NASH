@@ -11,3 +11,4 @@ class AgentState(TypedDict):
     code: str
     answer: str
     error_logs: List[str]
+    steps: int
