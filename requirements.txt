@@ -1,0 +1,7 @@
+langgraph
+llama-index
+groq
+sympy
+scipy
+numpy
+python-dotenv

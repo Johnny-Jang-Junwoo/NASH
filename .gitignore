@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data & local storage
+/data/papers/**/*.pdf
+/data/papers/**/*.txt
+/storage/
+/chroma_db/
+/indices/
+
+# Secrets
+.env
+.env.local
+config_private.yaml
+
+# Build/test artifacts
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+
+# OS
+.DS_Store
+Thumbs.db
